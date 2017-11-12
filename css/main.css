@@ -15,7 +15,7 @@ h1, h2, h3, h4, h5, h6, p, .btn, .navbar-nav a, .form-control, .list-inline, sma
   font-family: 'Montserrat', sans-serif;
 }
 
-h6,p, .lead {
+h2, h6,p, .lead {
 	font-family: 'Raleway', sans-serif;
 }
 
@@ -28,9 +28,9 @@ h1 {
 }
 
 h2 {
-  font-size: 40px;
-  line-height: 40px;
-  etter-spacing: -0.5px;
+  font-size: 17px;
+  line-height: 17px;
+  letter-spacing: 0.1em;
   color: #ffffff;
   font-weight: 700;
 }
@@ -59,11 +59,13 @@ p {
 
 h6 {
   font-size: 17px;
-  letter-spacing: 0em;
+  letter-spacing: 0.2em;
   line-height: 0px;
   color: #25cb68;
   font-weight: 400;
+
 }
+
 /* images */
 .imagebox {
 /*  width: 50%;
